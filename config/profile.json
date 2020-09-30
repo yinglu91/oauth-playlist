@@ -1,0 +1,19 @@
+{
+  "id": "111251170817334956529",
+  "displayName": "Ying Lu",
+  "name": { "familyName": "Lu", "givenName": "Ying" },
+  "photos": [
+    {
+      "value": "https://lh3.googleusercontent.com/-_CC5Q1e_4DE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoTmrIyzt3vKeEsi2GrD-Y73DPeg/photo.jpg"
+    }
+  ],
+  "provider": "google",
+  "_json": {
+    "sub": "111251170817334956529",
+    "name": "Ying Lu",
+    "given_name": "Ying",
+    "family_name": "Lu",
+    "picture": "https://lh3.googleusercontent.com/-_CC5Q1e_4DE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoTmrIyzt3vKeEsi2GrD-Y73DPeg/photo.jpg",
+    "locale": "en"
+  }
+}
